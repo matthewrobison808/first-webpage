@@ -1,0 +1,29 @@
+h1 {
+  color: green;
+  font-family: fantasy;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-style: oblique;
+}
+
+h3{
+  color: purple;
+  text-align: left;
+  line-height: 40px;
+}
+
+p{
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+ol{
+  color: red;
+}
+
+ul{
+  color: blue;
+}
